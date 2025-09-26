@@ -43,9 +43,6 @@ DLD Project Report 1.docx: The complete project report, which details the object
 .gitignore: Excludes simulator-specific output files to keep the repository clean.
 
 How to Run the Project (Using ModelSim)
-Clone the Repository:
-
-git clone [Your Repository URL]
 
 Open in ModelSim:
 
